@@ -1,15 +1,15 @@
 import React from "react";
 import Head from 'next/head';
-import { ReviewForm } from 'components';
 
-export default function Home() {
+export default function Challenge() {
   return (
     <>
       <Head>
-        <title>Create Next App</title>
+        <title>21 Day Challenge</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <ReviewForm />
+
+      21 Day Challenge
     </>
 
   );

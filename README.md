@@ -1,20 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Career Karma - Review Form (test task)
+======================================
+Test task for an interview.
 
-## Getting Started
+## Getting Started Instructions
 
-First, run the development server:
+First, run the development server using `npm`:
 
 ```bash
-npm run dev
-# or
-yarn dev
+npm install && npm run dev
+```
+
+Run the development server using `yarn`:
+
+```bash
+yarn install && yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
 ## Learn More
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 To learn more about Next.js, take a look at the following resources:
 
